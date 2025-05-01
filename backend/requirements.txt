@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+psycopg[binary]  # Pour PostgreSQL
+python-dotenv
+psycopg2-binary
+uvicorn[standard]
+greenlet
+python-multipart
+passlib[bcrypt] 
+python-jose[cryptography]
+pydantic[email]
+pydantic-settings
